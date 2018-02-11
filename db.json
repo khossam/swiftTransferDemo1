@@ -1,12 +1,12 @@
 {
   "posts": [
     {
-    id: 5174298729,
-    firstName: 'By Hand',
-    lastName: 'Norman, Tim',
-    username: '',
-    email: '944,600 (USD)',
-    age: '93%',
+    "id": 5174298729,
+    "firstName": 'By Hand',
+    "lastName": 'Norman, Tim',
+    "username": '',
+    "email": '944,600 (USD)',
+    "age": '93%',
   }
   ],
   "comments": [
