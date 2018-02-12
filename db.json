@@ -1,6 +1,6 @@
 {
   "posts": [
-  { "name":"John", "age":30, "car":null }
+  { "id":"John", "firstName":30, "lastName":"Khaled,Hossam", "email":"944,600 (USD)","age":"91%"}
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
